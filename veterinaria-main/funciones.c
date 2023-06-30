@@ -72,10 +72,6 @@ void mFactura(char *opc1, char *opc2, char *opc3, char *opc4, char *opc5, int *s
     printf("Nombre del Dueño: %s\n",opc5);
     printf("Nombre de la Mascota: %s\n",opc2);
     printf("ID de la Mascota: %s\n",opc1);
-    /*for (i = 0; i < 4; i++)
-    {
-        printf("Servicio %d: %s\n",i+1,serviciosm[0][i]);
-    }*/
 
     for (i = 0; i < 4; i++)
     {
